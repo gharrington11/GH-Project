@@ -1,0 +1,6 @@
+{
+	"name": "tutorialintegrationRuntime3",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}

@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialDataFactoryghinfinity",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4384f8d2-14d4-4b51-901e-9d1fe8693402",
+		"tenantId": "88df45d1-a264-452e-94b3-13170cc80d13"
+	}
+}
