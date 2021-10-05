@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorialBulkCopyDFgh",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e647205c-1888-40c1-a39a-3590cbb1b96d",
+		"tenantId": "88df45d1-a264-452e-94b3-13170cc80d13"
+	}
+}
