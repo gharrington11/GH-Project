@@ -5,13 +5,13 @@
 		"factoryName": {
 			"value": "ADFTutorialBulkCopyDFgh"
 		},
-		"AzureSqlDatabaseLinkedService_connectionString": {
-			"value": ""
-		},
 		"AzureBlobStorageLinkedService_connectionString": {
 			"value": ""
 		},
 		"AzureSqlDWLinkedService_connectionString": {
+			"value": ""
+		},
+		"AzureSqlDatabaseLinkedService_connectionString": {
 			"value": ""
 		}
 	}
