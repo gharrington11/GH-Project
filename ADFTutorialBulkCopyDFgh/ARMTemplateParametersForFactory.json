@@ -11,6 +11,9 @@
 		"AzureSqlDWLinkedService_connectionString": {
 			"value": ""
 		},
+		"AzureSqlDatabaseLS1_connectionString": {
+			"value": ""
+		},
 		"AzureSqlDatabaseLinkedService_connectionString": {
 			"value": ""
 		}
