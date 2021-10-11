@@ -8,6 +8,9 @@
 		"AzureBlobStorageLinkedService_connectionString": {
 			"value": ""
 		},
+		"AzureBlobStorageWaterMark_connectionString": {
+			"value": ""
+		},
 		"AzureSqlDWLinkedService_connectionString": {
 			"value": ""
 		},

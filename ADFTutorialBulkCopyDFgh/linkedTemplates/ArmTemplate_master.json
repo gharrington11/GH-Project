@@ -11,6 +11,10 @@
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorageLinkedService'"
 		},
+		"AzureBlobStorageWaterMark_connectionString": {
+			"type": "secureString",
+			"metadata": "Secure string for 'connectionString' of 'AzureBlobStorageWaterMark'"
+		},
 		"AzureSqlDWLinkedService_connectionString": {
 			"type": "secureString",
 			"metadata": "Secure string for 'connectionString' of 'AzureSqlDWLinkedService'"
@@ -56,6 +60,9 @@
 					},
 					"AzureBlobStorageLinkedService_connectionString": {
 						"value": "[parameters('AzureBlobStorageLinkedService_connectionString')]"
+					},
+					"AzureBlobStorageWaterMark_connectionString": {
+						"value": "[parameters('AzureBlobStorageWaterMark_connectionString')]"
 					},
 					"AzureSqlDWLinkedService_connectionString": {
 						"value": "[parameters('AzureSqlDWLinkedService_connectionString')]"
