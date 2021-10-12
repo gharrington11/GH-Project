@@ -333,7 +333,7 @@
 										"value": "@{activity('LookupNewWaterMarkActivity').output.firstRow.NewWatermarkvalue}",
 										"type": "Expression"
 									},
-									"type": "Datetime"
+									"type": "DateTime"
 								},
 								"TableName": {
 									"value": {
